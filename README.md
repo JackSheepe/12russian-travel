@@ -1,9 +1,20 @@
 # Проект: Путешествие по России
 
+## Проектная работа 3, в ней я изучаю grid и адаптив
+
+Использованные технологии
+
+- БЭМ
+- Nested БЭМ
+- Флексы и позиционирование
+- grid
+- адаптив
+
 ### Обзор
-* Интро
-* Figma
-* Картинки
+
+- Интро
+- Figma
+- Картинки
 
 **Интро**
 
@@ -13,7 +24,7 @@
 
 **Figma**
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+- [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 **Картинки**
 
