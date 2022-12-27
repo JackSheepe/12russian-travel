@@ -1,6 +1,7 @@
 # Проект: Путешествие по России
 
 ## Проектная работа 3, в ней я изучаю grid и адаптив
+https://jacksheepe.github.io/vt-ya-prktkm-russian-travel
 
 Использованные технологии
 
