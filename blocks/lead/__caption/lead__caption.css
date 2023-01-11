@@ -8,7 +8,7 @@
   margin-top: 8px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .lead__caption {
     margin-left: 16px;
   }

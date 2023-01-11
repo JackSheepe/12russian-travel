@@ -9,24 +9,30 @@
   margin: 0 auto;
 }
 
-@media (min-width: 768px) and (max-width: 1024px) {
+@media (min-width: 1024px) and (max-width: 1280px) {
   .intro {
-    grid-template-columns: 1fr;
-    grid-template-areas:
-      "title"
-      "text"
-      "list";
+    margin: 0 48px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .intro {
     margin: 0 24px;
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1023px) {
   .intro {
     grid-template-columns: 1fr;
     grid-template-areas:
       "title"
       "text"
       "list";
+  }
+}
+
+@media (max-width: 767px) {
+  .intro {
     margin: 0 16px;
   }
 }

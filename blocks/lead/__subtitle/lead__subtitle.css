@@ -7,7 +7,7 @@
   margin: 32px auto 64px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .lead__subtitle {
     font-size: 16px;
     line-height: 1.25;

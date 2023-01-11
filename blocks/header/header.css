@@ -2,11 +2,12 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  margin: 0 48px;
+  max-width: 1184px;
+  margin: 0 auto;
   margin-top: 26px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .header {
     margin: 16px 16px 0;
   }
